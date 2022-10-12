@@ -41,6 +41,7 @@
     "libsignal": "git+https://github.com/adiwajshing/libsignal-node",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
+    "nodemon": "^2.0.20",
     "pino": "^7.0.0",
     "protobufjs": "^6.11.3",
     "ws": "^8.0.0"
